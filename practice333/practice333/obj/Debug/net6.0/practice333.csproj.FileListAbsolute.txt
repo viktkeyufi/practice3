@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\practice333\practice333\bin\Debug\net6.0\practice333.exe
+C:\Users\Студент\source\repos\practice333\practice333\bin\Debug\net6.0\practice333.deps.json
+C:\Users\Студент\source\repos\practice333\practice333\bin\Debug\net6.0\practice333.runtimeconfig.json
+C:\Users\Студент\source\repos\practice333\practice333\bin\Debug\net6.0\practice333.dll
+C:\Users\Студент\source\repos\practice333\practice333\bin\Debug\net6.0\practice333.pdb
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.AssemblyInfo.cs
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.dll
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\refint\practice333.dll
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.pdb
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\practice333.genruntimeconfig.cache
+C:\Users\Студент\source\repos\practice333\practice333\obj\Debug\net6.0\ref\practice333.dll
